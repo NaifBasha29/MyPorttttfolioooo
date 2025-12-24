@@ -204,17 +204,17 @@ export const experiences = [
 export const education = [
   {
     id: 1,
-    degree: "Bachelor of Science in Computer Science",
-    school: "University of California, Berkeley",
-    period: "2014 - 2018",
+    degree: "Bachelor of Computer Applications",
+    college: "Patricinan College of Arts and Science",
+    period: "2021 - 2024",
     description: "Focused on software engineering and web technologies. Graduated with honors."
   },
   {
     id: 2,
-    degree: "Full Stack Web Development Bootcamp",
-    school: "Coding Academy",
-    period: "2018",
-    description: "Intensive 12-week program covering modern web development technologies."
+    degree: "Master of Computer Applications",
+    college: "MEASI Institute of Information Technology",
+    period: "2024 - Present",
+    description: "Learning and gaining knowledge in the field of Computer Applications."
   }
 ];
 
