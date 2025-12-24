@@ -41,7 +41,7 @@ const Education = () => {
                   <div className="edu-content">
                     <span className="edu-period">{edu.period}</span>
                     <h4 className="edu-degree">{edu.degree}</h4>
-                    <p className="edu-school">{edu.school}</p>
+                    <p className="edu-college">{edu.college}</p>
                     <p className="edu-description">{edu.description}</p>
                   </div>
                 </div>
